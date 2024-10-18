@@ -1,1 +1,1 @@
-# MHRS-uygulamas-nda-yenilik
+# Merkezi Hekim Randevu sisteminde (MHRS) değişiklikler.
