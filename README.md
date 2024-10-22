@@ -1,4 +1,4 @@
-# Merkezi Hekim Randevu sisteminde (MHRS) değişiklikler
+# Merkezi Hekim Randevu sisteminde (MHRS) yenilikler ve sadeleştirme 
 
 ## GİRİŞ
 
