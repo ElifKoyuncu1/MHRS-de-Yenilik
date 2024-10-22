@@ -2,7 +2,7 @@
 
 ## GİRİŞ
 
-![MHRS uygulama logosu](indir.png)
+![indir](https://github.com/user-attachments/assets/200cca9e-7efb-4d8d-ac05-635581b23952)
 
 Bu proje kapsamında, Türkiye Cumhuriyeti vatandaşlarının sağlık hizmetlerine erişimini 
 kolaylaştıran Merkezi Hekim Randevu Sistemi (MHRS) uygulamasında gözlemlenen 
