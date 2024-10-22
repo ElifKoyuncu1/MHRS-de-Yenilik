@@ -1,6 +1,6 @@
 # Merkezi Hekim Randevu sisteminde (MHRS) değişiklikler
 
-## GİRİŞ
+## Giriş
 
 ![indir](https://github.com/user-attachments/assets/200cca9e-7efb-4d8d-ac05-635581b23952)
 
@@ -11,9 +11,8 @@ uygulamasını daha kullanıcı dostu hale getirmek ve sistemdeki karmaşık uns
 basitleştirmektir. Gözlemlerimiz, kullanıcıların randevu alma sürecinde ve doktorlarla 
 olan etkileşimlerinde çeşitli zorluklar yaşadıklarını göstermektedir.
 
----
 
-# MEVCUT SİSTEM ANALİZİ
+## Mevcut Sistem Analizi
 
 MHRS mobil uygulaması, randevu alma süreçlerini dijitalleştirerek sağlık hizmetlerine 
 erişimi kolaylaştırmayı hedeflemektedir. Ancak mevcut sistemde kullanıcı arayüzü ve 
@@ -27,7 +26,7 @@ belirlenmiştir.
 * Ek Menüler: Çıkış yap, çevremdeki hastaneler, hekimler, profil ve aydınlatma 
 metni gibi unsurların bulunduğu menüde ciddi bir karışıklık söz konusud
 
-# Sorunların Detaylı Analizi
+## Sorunların Detaylı Analizi
 1. Kullanıcı Arayüzü Karışıklığı: MHRS uygulamasında, menü yapısının 
 karmaşıklığı ve menülerdeki düzensizlik, kullanıcıların doğru işlemleri bulmasını 
 zorlaştırmaktadır. Örneğin, “Neyim Var” seçeneği uygulamanın başlangıcında 
@@ -39,7 +38,7 @@ randevuları gibi acil durumlarda büyük bir eksiklik yaratmaktadır.
 mevcut randevularını yönetmek konusunda zorluk çekmektedirler. Bunun 
 sebebi, menülerin karmaşıklığı ve bazı işlevlerin yetersizliğidir.
 
-# Çözüm Önerileri
+## Çözüm Önerileri
 1. Menü Yapısının Basitleştirilmesi: Kullanıcı deneyimini iyileştirmek için menü 
 yapısı sadeleştirilmeli ve daha kullanıcı dostu hale getirilmelidir. Örneğin, 
 "Neyim Var" seçeneği ana menüye yerleştirilmeli ve profil bölümüne entegre 
@@ -55,7 +54,7 @@ kullanışlı araçlar sunulmalıdır.
 Vatandaşı” veya “Yabancı Uyruklu” seçenekleri sunularak, uygulamanın 
 uluslararası kullanıcılar için de uygun hale getirilmesi sağlanabilir.
 
-# Sonuç
+## Sonuç
 Bu proje kapsamında, MHRS uygulamasındaki kullanıcı arayüzü ve işlevsellik 
 sorunlarına yönelik çözüm önerileri sunulmuştur. Amacımız, uygulamayı daha kullanıcı 
 dostu hale getirerek sağlık hizmetlerine erişimi kolaylaştırmaktır. Yapılacak 
@@ -65,7 +64,7 @@ MHRS uygulaması oluşturacaktır.
 
 
 
-# Ekibimiz
+## Ekibimiz
 
 ARAŞTIRMA VE GELİŞTİRME
 :DİLA BİLGEN
