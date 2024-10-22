@@ -8,3 +8,5 @@ sorunları ve bu sorunlara yönelik çözüm önerilerimizi ele alacağız. Amac
 uygulamasını daha kullanıcı dostu hale getirmek ve sistemdeki karmaşık unsurları 
 basitleştirmektir. Gözlemlerimiz, kullanıcıların randevu alma sürecinde ve doktorlarla 
 olan etkileşimlerinde çeşitli zorluklar yaşadıklarını göstermektedir.
+
+
