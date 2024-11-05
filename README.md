@@ -89,7 +89,7 @@ Almanya dijitalleşmeye önem vermekte olmakla birlikte karmaşık bir yapıyla 
 * E-REÇETE
 Bu uygulamalar almanya da sigorta şirketlerince sağlanmaktadır.
 
-## KOLAY VE ERİŞİLEBİLİR ARAYÜZ:
+## Kolay ve Erişilebilir Arayüz:
 
 Ana menü:
 * Randevu Takibi 
@@ -98,7 +98,7 @@ Ana menü:
 * Tıbbi kayıt erişimi 
  yer almaktadır.
 
-## KİŞİLEŞTİRİLMİŞ SAĞLIK TAKİBİ:
+## Kişileştirilmiş Sağlık Takibi:
 
 Uygulama üzerinde kronik hastalık yönetimi ve düzenli kontroller uygulama üzerinden kontrol edilebilir hale getirilmiştir.
 
@@ -143,7 +143,7 @@ Randevu sistemi ikiye ayrılıyor;
 * GP(General Practitioner) Aile Hekimi Randevuları
 * Hastane randevuları
 
-## MERKEZİ VERİ DEPOLAMA ALANI: 
+## Merkezi Veri Depolama Alanı: 
 Reçeteler, tıbbi geçmişleri, labovatuar sonuçları olmakla beraberinde sistem de yer almakta bizde ise sadece E nabız da yer almaktadır.
 
 Randevu sistemi algoritmasını incelediğimizde ise AKILLI YÖNLENDİRME SİSTEMİ gayet mantıklı buldum.
