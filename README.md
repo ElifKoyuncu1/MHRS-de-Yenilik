@@ -77,20 +77,25 @@ YÖNETİCİ VE İLETİŞİM
 
 
 
+
+
+## PROJE BAŞLANGICI
+* 1.1 Bilgi toplama 
+
 ## ALMANYA’NIN MOBİL SAĞLIK SİSTEMİ OLAN  UYGULAMASI ARAŞTIRMA RAPORU
 
 Almanya dijitalleşmeye önem vermekte olmakla birlikte karmaşık bir yapıyla organize edilmiş sistemle karşımıza çıkmaktadır:
--EHRS 
--E-REÇETE
+* EHRS 
+* E-REÇETE
 Bu uygulamalar almanya da sigorta şirketlerince sağlanmaktadır.
 
 ## KOLAY VE ERİŞİLEBİLİR ARAYÜZ:
 
 Ana menü:
--Randevu Takibi 
--Reçete yönetimi
--Doktor iletişimi 
--Tıbbi kayıt erişimi 
+* Randevu Takibi 
+* Reçete yönetimi
+* Doktor iletişimi 
+* Tıbbi kayıt erişimi 
  yer almaktadır.
 
 ## KİŞİLEŞTİRİLMİŞ SAĞLIK TAKİBİ:
@@ -98,10 +103,10 @@ Ana menü:
 Uygulama üzerinde kronik hastalık yönetimi ve düzenli kontroller uygulama üzerinden kontrol edilebilir hale getirilmiştir.
 
 Elektrik Sağlık Kayıtları(EHR):
--Hastanaların tıbbi geçmişi
--Tahlil sonuçları 
--Teşhisler
--Tedavi planları 
+* Hastanaların tıbbi geçmişi
+* Tahlil sonuçları 
+* Teşhisler
+* Tedavi planları 
 Mobil uygulama üzerinden erişime açıktır.
 Uygulama yasal uyumluluk ve veri koruma konusunda Avrupa Birliği’nin Genel Veri Koruma Yönetmeliği standartlarına göre uygundur.
 
@@ -135,8 +140,8 @@ Sağlık Sigorta Entegrasyonu: Uygulamalar, sağlık sigorta sistemleri ile ente
 
 NHS merkezi randevu sisteminde şunları gözlemledik. 
 Randevu sistemi ikiye ayrılıyor;
-## -GP(General Practitioner) Aile Hekimi Randevuları
-## -Hastane randevuları
+* GP(General Practitioner) Aile Hekimi Randevuları
+* Hastane randevuları
 
 ## MERKEZİ VERİ DEPOLAMA ALANI: 
 Reçeteler, tıbbi geçmişleri, labovatuar sonuçları olmakla beraberinde sistem de yer almakta bizde ise sadece E nabız da yer almaktadır.
@@ -161,32 +166,75 @@ Uygulama üzerinde geri bildirim ve iyileştirme mekanizması mevcuttur.Bu şeki
 ## -Elektronik Sağlık Dosyası(EPD): 
 Hasta ve sağlık personellerinin ortak şekilde kullandığı bir uygulamadır.
 
--Hasta ile görüntülü konuşma yapılıyor.
--Uygulama doktorların e- reçete yazıp hastaların kolayca almasına olanak sağlıyor.
--MOBİL SAĞLIK İZLEME:
+* Hasta ile görüntülü konuşma yapılıyor.
+* Uygulama doktorların e- reçete yazıp hastaların kolayca almasına olanak sağlıyor.
+MOBİL SAĞLIK İZLEME:
 Hastaların genel sağlık koşulunu izlemek için giyilebilir teknoloji kullanılıyor.
-- Yapay zeka sayesinde hasta verileri depo ve analizi yapılıyor, yapay zeka sayesinde de kronik hastalıklara dahil risk durumu görülürse aile hekimine yönlendiriyor.
--Uygulama içinde veri güvenliğinin sağlanmasında eklenen parmak izi ve yüz tanıma sistemleri kullanılıyor.
--Veri güvenliği için Blockchain teknolojisi kullanılmaktadır.
--Yapay zeka sayesinde tıbbı görüntüleme verilerini analiz edip gerekli tedaviyi ön görebilir.
-- Uygulama sistem içerinde yaşam tarzı ve sağlık koşullarını baz alarak tedavinin seyrini düzenleyecek önerileri verebilir.
--Uygulama bulut tabanlı altyapıdan oluşuyor , böylelikle verilerin gizliliği ve güvenliğinde ihlal teşkil edecek unsur gözedilmiyor
--Sistem laboratuvar, eczane, doktor ve hastanelere sağlayıcılığı sayesinde veri paylaşımı yapıp hastaların reçete ilaç ve tahlil sonuçlarına daha rahat ulaşımını sağlıyor.
--Giyilebilir teknoloji sayesinde; Akıllı saatler, nabız ölçer, kan şekeri mönitörleri)
--Kullanıcıların sağlık verilerini analiz ederek hatırlatmalar yapar: İlaç alım saatleri, randevular, sağlık izleme hatırlatmaları gibi)
+* Yapay zeka sayesinde hasta verileri depo ve analizi yapılıyor, yapay zeka sayesinde de kronik hastalıklara dahil risk durumu görülürse aile hekimine yönlendiriyor.
+* Uygulama içinde veri güvenliğinin sağlanmasında eklenen parmak izi ve yüz tanıma sistemleri kullanılıyor.
+* Veri güvenliği için Blockchain teknolojisi kullanılmaktadır.
+* Yapay zeka sayesinde tıbbı görüntüleme verilerini analiz edip gerekli tedaviyi ön görebilir.
+* Uygulama sistem içerinde yaşam tarzı ve sağlık koşullarını baz alarak tedavinin seyrini düzenleyecek önerileri verebilir.
+* Uygulama bulut tabanlı altyapıdan oluşuyor , böylelikle verilerin gizliliği ve güvenliğinde ihlal teşkil edecek unsur gözedilmiyor
+* Sistem laboratuvar, eczane, doktor ve hastanelere sağlayıcılığı sayesinde veri paylaşımı yapıp hastaların reçete ilaç ve tahlil sonuçlarına daha rahat ulaşımını sağlıyor.
+* Giyilebilir teknoloji sayesinde; Akıllı saatler, nabız ölçer, kan şekeri mönitörleri)
+* Kullanıcıların sağlık verilerini analiz ederek hatırlatmalar yapar: İlaç alım saatleri, randevular, sağlık izleme hatırlatmaları gibi)
 
 ## JAPONYA MOBİL SAĞLIK SİSTEMİ ÜZERİNE
--Kırsal da yaşayan yaşlılar için video konferansla sağlık hizmeti sağlanabiliyor.
--Mobil uygulama üzerinde hastaların sağlık verilerine erişimi vardır, sağlık verileri üzerinde hatırlatmalar mevcuttur.
--Kan basıncı, kalp atışı, şeker seviyesi gibi parametre veren cihazların sistem kaydı olup izlenmektedir
--Hastaların kronik rahatsızlıklarını izleyerek bir risk tablosu oluşturabilir.
--Tıbbı görüntüleme de analiz ederek kanserli hücre(radyoloji) ya da kalp rahatsızlıklarını öngörebilen yapay zekaya sahip altyapı mevcuttur.
--Sağlık koşullarını izleyerek olası hastalıklar için öngörü de bulunabilir.
--Uygulama içinde iki faktörlü kimlik doğrulama mevcuttur.
--Bulut tabanlı altyapı sayesinde verilerin doktorlar ve hastalar arasındaki tam zamanlı erişim ve yedeklenmesi daha elverişli ortam sunuyor.
--API tabanlı sistemle veri paylaşımı sağlayan bir seçenek sunuyor.
--IoT Teknolojilerinin (İnternete bağlanan nesnelerin) sağlık cihazlarında kullanımı ve verilerin mobil uygulama üzerine işlenmesi mevcuttur.
--Sistem kronik hastaların takibini yapabilmekte ve yönlendirmektedir.
+* Kırsal da yaşayan yaşlılar için video konferansla sağlık hizmeti sağlanabiliyor.
+* Mobil uygulama üzerinde hastaların sağlık verilerine erişimi vardır, sağlık verileri üzerinde hatırlatmalar mevcuttur.
+* Kan basıncı, kalp atışı, şeker seviyesi gibi parametre veren cihazların sistem kaydı olup izlenmektedir
+* Hastaların kronik rahatsızlıklarını izleyerek bir risk tablosu oluşturabilir.
+* Tıbbı görüntüleme de analiz ederek kanserli hücre(radyoloji) ya da kalp rahatsızlıklarını öngörebilen yapay zekaya sahip altyapı mevcuttur.
+* Sağlık koşullarını izleyerek olası hastalıklar için öngörü de bulunabilir.
+* Uygulama içinde iki faktörlü kimlik doğrulama mevcuttur.
+* Bulut tabanlı altyapı sayesinde verilerin doktorlar ve hastalar arasındaki tam zamanlı erişim ve yedeklenmesi daha elverişli ortam sunuyor.
+* API tabanlı sistemle veri paylaşımı sağlayan bir seçenek sunuyor.
+* IoT Teknolojilerinin (İnternete bağlanan nesnelerin) sağlık cihazlarında kullanımı ve verilerin mobil uygulama üzerine işlenmesi mevcuttur.
+* Sistem kronik hastaların takibini yapabilmekte ve yönlendirmektedir.
+
+  
+## PROJE BAŞLANGIÇ
+* 1.2 Bilgi Filtreleme
+
+## TASARIM İÇİN ARAŞTIRMALARDAN ELDE EDİLEN BULGULAR
+Uzun analizlerim neticesinde benzer sağlık sistemine sahip tek ülke Almanya diyebiliriz.
+
+* EHRS =MHRS
+* E-REÇETE=E-NABIZ 
+Uygulamaları bulunmaktadır.
+
+## ANA MENÜ 
+* RANDEVULARIM (Randevu Takibi)
+* REÇETEM (Reçete Yönetimi)
+* DOKTORUM (Doktor İletişim)
+* GEÇMİŞ RANDEVULAR (Tıbbi Kayıt Erişimi)
+Ana menü planlaması Almanyadan alınabilir .
+
+## UYGULAMALAR:
+* TAHLİL SONUÇLARI 
+* TEŞHİSLER
+* TEDAVİ PLANLARI 
+* RANDEVU BİLDİRİMİ
+* REÇETE BİLDİRİMİ 
+* İLAÇ HATIRLATICI
+* KULLANICI SEMPTOMLARINA BAĞLI RİSKE GÖRE DOKTORA BAŞVURMALARINI ÖNEREN YAPAY ZEKA
+* DOKTOR GERİ BİLDİRİMİ
+* DİĞER SAĞLIK UYGULAMALARI ÜZERİNE UYUMLULUK (GOGGLE FİT, APPLE HEALTH)
+* DOKTORLA VİDEOLU KONFREANS 
+* SAĞLIK SİGORTA TALEBİ VE TEDAVİ MASRAFLARI GÖRÜNÜRLÜĞÜ
+* GİYİLEBİLİR TEKNOLOJİNİN UYGULAMA İLE UYUMU (AKILLI SAATLER, NABIZ ÖLÇER , KAN ŞEKERİ  MÖNİTÖRLERİ)
+* PARMAK İZİ VE YÜZ TANIMA EKLEME
+* VERİ GÜVENLİĞİ İÇİN BLOCKCHAİN KULLANILIYOR 
+* BULUT TABANLI ALTYAPI OLUŞUMU 
+* İKİ FAKTÖRLÜ KİMLİK DOĞRULAMA
+* TIBBİ GÖRÜNTELEME ÜZERİNE ÖNERİ DE BULUNAN YAPAY ZEKA
+   
+Almanya , Japonya, İngiltere , İsviçre gibi ülkeler kullanmaktadır.
+
+
+
+
 
 
 
